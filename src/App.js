@@ -1,4 +1,3 @@
-//12:30 1:40
 import "./App.css";
 import { useEffect, useState } from "react";
 import CardList from "./components/cardList/cardList.component";
